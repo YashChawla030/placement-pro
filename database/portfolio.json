@@ -73,9 +73,14 @@
         "id": "1740422249810",
         "name": "AI-Driven Testing",
         "rating": 8.5
+      },
+      {
+        "id": "1742627420059",
+        "name": "Github",
+        "rating": 8.5
       }
     ],
-    "skillAnimationType": "moving-animation"
+    "skillAnimationType": "scale-animation"
   },
   "achievementsInfo": {
     "displayName": "Achievements",
