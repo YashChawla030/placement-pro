@@ -17,9 +17,9 @@
   },
   "heroInfo": {
     "displayName": "",
-    "message": "Hi! I am Ananya. Hi! I am Ananya.Hi! I am Ananya.Hi! I am Ananya.Hi! I am Ananya.Hi! I am Ananya.Hi! I am Ananya.Hi! I am Ananya.",
-    "introduction": "Software Development Engineer in Test (SDET), Automation Tester, Workflow Automation Expert, Hi! I am Ananya.Hi! I am Ananya.Hi! I am Ananya.Hi! I am Ananya.Hi! I am Ananya.Hi! I am Ananya.Hi! I am Ananya.Hi! I am Ananya.Hi! I am Ananya.Hi! I am Ananya.",
-    "description": "A detail-oriented Software Development Engineer in Test with expertise in automation frameworks, performance testing, and CI/CD integration. Hi! I am Ananya.Hi! I am Ananya.Hi! I am Ananya.Hi! I am Ananya.Hi! I am Ananya.Hi! I am Ananya.Hi! I am Ananya.Hi! I am Ananya.Hi! I am Ananya.Hi! I am Ananya"
+    "message": "Hi! I am Ananya.",
+    "introduction": "Software Development Engineer in Test (SDET), Automation Tester, Workflow Automation Expert",
+    "description": "A detail-oriented Software Development Engineer in Test with expertise in automation frameworks, performance testing, and CI/CD integration."
   },
   "skillsInfo": {
     "displayName": "Specialization",
